@@ -1,0 +1,39 @@
+<?
+$aMenuLinks = Array(
+    Array(
+        "Новости",
+        "/news/",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Запрос по VIN",
+        "/vin/",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "О нас",
+        "/onas/",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Доставка",
+        "/dostavka/",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Контакты",
+        "/kontakty/",
+        Array(),
+        Array(),
+        ""
+    )
+);
+?>
